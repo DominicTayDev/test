@@ -1,0 +1,88 @@
+Bank,Card,Scheme,Tier,CardType,Notes,SourceURL,Confidence
+DBS,"DBS Altitude Visa Signature Card",Visa,"Visa Signature",Consumer credit,"Miles card; tier in product name.",https://www.dbs.com.sg/i-bank/cards/credit-cards/dbs-altitude-cards,Certain
+DBS,"DBS Altitude American Express Card",Amex,"Amex (bank-issued; no public tier)",Consumer credit,"Still listed on Amex SG's DBS page.",https://www.americanexpress.com/en-sg/network/credit-cards/dbs/,Likely
+DBS,"DBS Vantage Visa Infinite Card",Visa,"Visa Infinite",Consumer credit,"Launched Jun 2022; S$120k income.",https://dbs.com.sg/treasures-private-client/deposits/your-cards/vantage-visa-infinite-card,Certain
+DBS,"DBS Insignia Visa Infinite Card",Visa,"Visa Infinite",Consumer credit,"Metal; invitation only.",https://www.dbs.com.sg/personal/landing/insignia-microsite,Certain
+DBS,"DBS Treasures Black Elite Card",Amex,"Amex (bank-issued; no public tier)",Consumer credit,"Treasures clients; DBS booklet calls it an American Express card.",https://www.dbs.com/iwov-resources/pdf/my-private-bank/Treasures_Booklet.pdf,Certain
+DBS,"DBS Woman's World Card",Mastercard,"World Mastercard",Consumer credit,"DBS fee page lists it as DBS Woman's World MasterCard.",https://www.dbs.com.sg/personal/support/card-charges-and-fees-annual-fee.html,Certain
+DBS,"DBS Woman's Card (Woman's Platinum Mastercard)",Mastercard,"Platinum Mastercard",Consumer credit,"Not confirmed as still issued to new applicants.",https://milelion.com/2025/04/14/review-dbs-womans-world-card/,Likely
+DBS,"DBS Live Fresh Card",Visa,"Visa Platinum",Consumer credit,"DBS promo page lists it under Visa Platinum. Reported CLOSED to new applicants from 7 Sep 2026 (MoneySmart only).",https://www.dbs.com.sg/personal/promotion/card-privileges-visa-jal,Certain
+DBS,"DBS Live Fresh Student Card",Visa,"Unknown",Consumer credit,"DISCONTINUED: DBS FAQ says applications ceased 1 Dec 2024.",https://dbs.com.sg/iwov-resources/media/pdf/cards/dbs-lfsc-faqs.pdf,Likely (scheme)
+DBS,"DBS yuu Visa Card",Visa,"Visa Platinum",Consumer credit,"Co-brand (yuu).",https://www.dbs.com.sg/personal/promotion/card-privileges-visa-jal,Certain
+DBS,"DBS yuu American Express Card",Amex,"Amex (bank-issued; no public tier)",Consumer credit,"Co-brand (yuu).",https://dbs.com.sg/i-bank/cards/credit-cards/dbs-yuu-cards,Certain
+DBS,"DBS Takashimaya Visa Card",Visa,"Visa Platinum",Consumer credit,"Co-brand (Takashimaya).",https://www.dbs.com.sg/personal/promotion/card-privileges-visa-jal,Certain
+DBS,"DBS Takashimaya American Express Card",Amex,"Amex (bank-issued; no public tier)",Consumer credit,"Co-brand (Takashimaya).",https://www.dbs.com.sg/personal/cards/credit-cards/dbs-takashimaya-card,Certain
+DBS,"DBS Esso Card",Mastercard,"Platinum Mastercard",Consumer credit,"Co-brand (Esso); tier inferred from DBS URL.",https://www.dbs.com.sg/personal/cards/credit-cards/dbs-esso-platinum-card,Likely
+POSB,"POSB Everyday Card",Visa,"Unknown",Consumer credit,"Cashback card; tier not stated anywhere found.",https://posb.com.sg/i-bank/cards/credit-cards/posb-everyday-card,Likely (scheme)
+DBS,"DBS Black Visa Card",Visa,"Unknown",Consumer credit,"DISCONTINUED: no new applications since 1 Mar 2022; existing cards still work.",https://www.dbs.com.sg/black,Certain (scheme)
+DBS,"DBS Black American Express Card",Amex,"Amex (no public tier)",Consumer credit,"DISCONTINUED: no new applications since 1 Mar 2022.",https://www.dbs.com.sg/black,Certain
+DBS,"DBS Visa Debit Card (multi-currency)",Visa,"Visa Platinum Debit",Consumer debit,"NETS co-badged. DBS promo page lists it under Visa Platinum.",https://www.dbs.com.sg/personal/cards/debit-cards/dbs-visa-debit,Certain
+DBS,"DBS UnionPay Platinum Debit Card",UnionPay,"UnionPay Platinum Debit",Consumer debit,"NETS not confirmed.",https://www.dbs.com.sg/personal/cards/debit-cards/dbs-unionpay,Certain
+DBS,"DBS Treasures Visa Debit Card",Visa,"Unknown",Consumer debit,"Treasures clients.",https://www.dbs.com.sg/treasures/deposits/your-cards/treasures-debit-card,Certain (scheme)
+DBS,"DBS Treasures Private Client Visa Debit Card",Visa,"Unknown",Consumer debit,"TPC clients.",https://www.dbs.com.sg/treasures-private-client/deposits/your-cards/treasures-debit-card,Certain (scheme)
+DBS,"DBS Takashimaya Debit Card",Unknown,"Unknown",Consumer debit,"Only in an old aggregator review; status unverified.",https://blog.moneysmart.sg/credit-cards/dbs-takashimaya-american-express-card-review,Guessing
+POSB,"POSB Smart Buddy (student card/watch)",NETS,"NETS only (domestic)",Prepaid,"NETS-only; no Visa/MC interchange.",https://wise.com/sg/blog/posb-smart-buddy-review,Likely
+DBS,"DBS Visa Business Platinum Card",Visa,"Visa Business Platinum",Commercial credit,"SME card.",https://dbs.com.sg/sme/day-to-day/business-cards/dbs-visa-business-platinum-card,Certain
+DBS,"DBS World Business Card",Mastercard,"World Mastercard for Business",Commercial credit,"One listing says Visa or Mastercard.",https://wise.com/sg/blog/dbs-world-business-card,Likely
+DBS,"DBS Business Advance+ Card (BAC+)",Visa,"Visa Business Debit",Commercial debit,"Multi-currency commercial debit, launched Aug 2024.",https://www.dbs.com.sg/sme/day-to-day/business-cards/dbs-visa-business-advance-plus-debit-card,Likely
+DBS,"DBS Visa Business Advance Debit Card",Visa,"Visa Business Debit",Commercial debit,"CLOSED to new applicants (replaced by BAC+).",https://www.dbs.com.sg/sme/day-to-day/business-cards/dbs-visa-business-advance-debit-card,Certain
+DBS,"DBS Corporate Charge Card",Unknown,"Unknown (corporate charge)",Commercial credit,"Fee schedule mentions both Visa and Mastercard.",https://www.dbs.com.sg/corporate/cash/business-cards/dbs-corporate-charge-card,Guessing
+DBS,"DBS Purchasing Card",Unknown,"Unknown (purchasing)",Commercial credit,"Procurement card.",https://www.dbs.com.sg/corporate/solutions/cash-management/dbs-purchasing-card,Guessing
+OCBC,"OCBC 365 Credit Card",Visa,"Visa Signature",Consumer credit,"Cashback card.",https://www.frankbyocbc.com/products/cards/365-card,Likely
+OCBC,"OCBC 90N Mastercard",Mastercard,"World Mastercard",Consumer credit,"Miles card.",https://www.singsaver.com.sg/cards/products/ocbc-90n-mastercard,Likely
+OCBC,"OCBC 90N Visa",Visa,"Unknown",Consumer credit,"Visa tier not stated anywhere found.",https://ocbc.com/personal-banking/cards/90-degrees-visa-card,Certain (scheme)
+OCBC,"OCBC Rewards Card (formerly OCBC Titanium Rewards)",Mastercard,"World Mastercard",Consumer credit,"Renamed from 15 Jan 2024.",https://www.singsaver.com.sg/credit-card/products/ocbc-titanium-rewards-credit-card-blue-card-face,Likely
+OCBC,"OCBC INFINITY Cashback Card",Mastercard,"Unknown",Consumer credit,"Launched Aug 2023.",https://www.ocbc.com/personal-banking/cards/infinity-unlimited-cashback-card,Certain (scheme)
+OCBC,"OCBC NXT Credit Card (formerly OCBC Cashflo)",Mastercard,"Unknown",Consumer credit,"Network inferred from OCBC URL.",https://www.ocbc.com/personal-banking/cards/cashflo-mastercard.html,Guessing
+OCBC,"OCBC VOYAGE Card",Visa,"Visa Infinite",Consumer credit,"Metal card.",https://www.ocbc.com/personal-banking/cards/voyage-credit-card-deals.page,Certain
+OCBC,"OCBC Premier VOYAGE Card",Visa,"Visa Infinite",Consumer credit,"Premier Banking clients.",https://www.you.co/sg/blog/ocbc-voyage-card-singapore/,Likely
+OCBC,"OCBC Premier Private Client VOYAGE Card",Visa,"Visa Infinite",Consumer credit,"PPC clients only.",https://www.ocbc.com/personal-banking/campaign/instantcredit/compare.html,Likely
+OCBC,"OCBC Premier Visa Infinite Card",Visa,"Visa Infinite",Consumer credit,"Premier Banking only.",https://ocbc.com/iwov-resources/sg/ocbc/personal/pdf/cards/tncs-premier-vi-creditcard-programme.pdf,Certain
+OCBC,"OCBC Plus! Visa Credit Card (NTUC FairPrice)",Visa,"Unknown",Consumer credit,"Co-brand (NTUC FairPrice / Link).",https://www.ocbc.com/plus/assets/pdf/pricing-guide.pdf,Certain (scheme)
+OCBC,"OCBC FRANK Credit Card",Unknown,"Unknown",Consumer credit,"Current availability unverified.",https://www.singsaver.com.sg/blog/ocbc-frank-credit-card-review,Guessing
+OCBC,"OCBC Debit Card",Visa,"Unknown",Consumer debit,"NETS co-badged.",https://www.ocbc.com/personal-banking/cards/ocbc-debit-card,Certain (scheme)
+OCBC,"OCBC FRANK Debit Card",Visa,"Unknown",Consumer debit,"Ages 16+.",https://www.ocbc.com/iwov-resources/sg/ocbc/personal/pdf/cards/tncs-governing-ocbc-frank-dc.pdf,Certain (scheme)
+OCBC,"OCBC MyOwn Debit Card (children)",Unknown,"Unknown",Consumer debit,"Children from age 7.",https://www.ocbc.com/iwov-resources/sg/ocbc/personal/pdf/accounts/tncs-governing-ocbc-myown-dc-new-customer-promo.pdf,Guessing
+OCBC,"OCBC Plus! Visa Debit Card (NTUC FairPrice)",Visa,"Unknown",Consumer debit,"Co-brand debit.",https://singsaver.com.sg/blog/ocbc-plus-debit-card-review,Likely (scheme)
+OCBC,"OCBC Premier World Elite Debit Card",Mastercard,"World Elite Debit Mastercard",Consumer debit,"Premier clients.",https://ocbc.com/premier-banking/our-solutions/cards/premier-world-elite,Certain
+OCBC,"OCBC Premier Private Client World Elite Debit Card",Mastercard,"World Elite Debit Mastercard",Consumer debit,"PPC clients.",https://www.ocbc.com/personal-banking/premier-private-client/solutions/ppc_world_elite,Certain
+OCBC,"OCBC Premier Debit Card (legacy)",Visa,"Unknown",Consumer debit,"Probably replaced by the Premier World Elite Debit Card.",https://ocbc.com/personal-banking/premier/premier-debit-card.html,Guessing
+OCBC,"OCBC Business Debit Card",Mastercard,"Unknown (business debit)",Commercial debit,"NETS co-badged (per Aspire).",https://www.ocbc.com/business-banking/smes/transactions/business-debit-card,Likely
+OCBC,"OCBC Business Credit Card",Visa,"Unknown (Visa commercial)",Commercial credit,"OCBC page mentions VISA Commercial Card offers.",https://www.ocbc.com/iwov-resources/sg/ocbc/business/pdf/ocbc-business-cards/fees_and_charges_for_business_credit_card.pdf,Likely
+UOB,"UOB PRVI Miles Visa Card",Visa,"Visa Signature OR Visa Infinite (depends on BIN range)",Consumer credit,"Signature for cards issued Apr 2018 onward; newly issued cards reported as Visa Infinite again from ~Jul 2025. Must be checked per BIN.",https://milelion.com/2025/07/21/psst-the-uob-prvi-miles-visa-is-a-visa-infinite-once-again/,Likely
+UOB,"UOB PRVI Miles World Mastercard",Mastercard,"World Mastercard",Consumer credit,"Miles card. The card you asked about.",https://pib.uob.com.sg/credit-cards/prvi-master-card.html,Certain
+UOB,"UOB PRVI Miles American Express Card",Amex,"Amex (bank-issued; no public tier)",Consumer credit,"",https://www.uob.com.sg/assets/web-resources/personal/pdf/cards/travel/prvi-miles-card/prvi-miles-amex-card-faq.pdf,Certain
+UOB,"UOB One Card",Visa,"Visa Signature",Consumer credit,"All new One Cards issued as UOB One Visa Signature from 3 Aug 2018.",https://www.uob.com.sg/personal/cards/credit/one/pdf/one-card-signature-upgrade-faqs.pdf,Certain
+UOB,"UOB Lady's Card",Mastercard,"World Mastercard",Consumer credit,"",https://milelion.com/2026/08/18/review-uob-ladys-card-ladys-solitaire/,Likely
+UOB,"UOB Lady's Solitaire Card",Mastercard,"World Mastercard",Consumer credit,"",https://pib.uob.com.sg/assets/pdfs/about/news/2008/uobladysolitaireworldmastercard.pdf,Certain
+UOB,"UOB Lady's Solitaire Metal Card",Mastercard,"World Elite Mastercard",Consumer credit,"Invitation only.",https://milelion.com/2025/09/28/how-do-you-qualify-for-a-uob-ladys-solitaire-metal-card/,Likely
+UOB,"UOB Visa Signature Card",Visa,"Visa Signature",Consumer credit,"Miles card.",https://www.uob.com.sg/personal/cards/rewards/visa-signature-card.page,Certain
+UOB,"UOB Preferred Platinum Visa Card (old design)",Visa,"Visa Platinum",Consumer credit,"BEING REPLACED: renamed UOB Preferred Visa from 10 Mar 2026; swapped on renewal.",https://www.uob.com.sg/personal/cards/rewards/preferred-visa-card.page,Certain
+UOB,"UOB Preferred Visa Card (new design from 10 Mar 2026)",Visa,"Visa Signature",Consumer credit,"UOB has not stated the tier.",https://milelion.com/2026/03/10/goodbye-uob-preferred-platinum-visa-hello-uob-preferred-visa/,Likely
+UOB,"UOB Professionals Platinum Card",Visa,"Visa Platinum",Consumer credit,"Affinity card.",https://uob.com.sg/personal/cards/rewards/professionals-platinum-card.page,Likely
+UOB,"KrisFlyer UOB Credit Card",Visa,"Unknown",Consumer credit,"Singapore Airlines co-brand.",https://www.uob.com.sg/personal/promotions/cards/sign-up-offers/krisflyer.page,Likely (scheme)
+UOB,"UOB Absolute Cashback Card",Amex,"Amex (bank-issued; no public tier)",Consumer credit,"1.7% flat cashback.",https://www.uob.com.sg/personal/cards/cashback/absolute-cashback-card.page,Certain
+UOB,"UOB EVOL Card",Visa,"Unknown",Consumer credit,"Some cards carry NETS FlashPay.",https://blog.moneysmart.sg/credit-cards/uob-evol-vs-uob-one/,Likely (scheme)
+UOB,"UOB Reserve Card",Visa,"Visa Infinite (may move to Visa Infinite Privilege/Private from Sep 2026)",Consumer credit,"Metal; invitation only.",https://milelion.com/2026/07/09/whats-the-difference-between-uobs-five-visa-infinite-cards/,Likely
+UOB,"UOB Reserve Diamond Card",Visa,"Visa Infinite (possible move to Visa Infinite Private)",Consumer credit,"Invitation only.",https://milelion.com/2026/07/09/whats-the-difference-between-uobs-five-visa-infinite-cards/,Likely
+UOB,"UOB Privilege Banking Card",Visa,"Visa Infinite",Consumer credit,"CLOSED to new applications from 1 Oct 2026; existing cards renewed.",https://milelion.com/2026/10/28/uob-discontinues-applications-for-uob-privilege-banking-card/,Likely
+UOB,"UOB Visa Infinite Metal Card",Visa,"Visa Infinite",Consumer credit,"Tier in product name.",https://www.singsaver.com.sg/cards/products/uob-visa-infinite-metal-card,Certain
+UOB,"UOB Visa Infinite Card",Visa,"Visa Infinite",Consumer credit,"CLOSED: no longer open for applications.",https://milelion.com/2026/07/09/whats-the-difference-between-uobs-five-visa-infinite-cards/,Likely
+UOB,"UOB One Debit Visa Card",Visa,"Unknown",Consumer debit,"NETS co-badged.",https://www.uob.com.sg/assets/pdfs/gst-hike-card-fees-announcement.pdf,Certain (scheme)
+UOB,"UOB One Debit Mastercard",Mastercard,"Unknown",Consumer debit,"NETS co-badged.",https://www.uob.com.sg/assets/pdfs/gst-hike-card-fees-announcement.pdf,Certain (scheme)
+UOB,"UOB Lady's Debit Card",Mastercard,"Unknown",Consumer debit,"NETS co-badged.",https://www.uob.com.sg/assets/web-resources/personal/pdf/cards/rewards/ladys-card/uob-ladys-debit-card-app-form-online-version.pdf,Certain (scheme)
+UOB,"UOB FX+ Debit Card",Mastercard,"Unknown",Consumer debit,"Multi-currency.",https://www.singsaver.com.sg/credit-card/blog/uob-fx-plus-review,Likely (scheme)
+UOB,"KrisFlyer UOB Debit Card",Unknown,"Unknown",Consumer debit,"",https://www.uob.com.sg/personal/cards/travel/krisflyer-debit-card.page,Guessing
+UOB,"UOB Visa Debit Card",Visa,"Unknown",Consumer debit,"NETS co-badged.",https://pib.uob.com.sg/personal/cards/debit/uob_debit_visa_card.html,Certain (scheme)
+UOB,"UOB Direct Visa Card (legacy)",Visa,"Unknown",Consumer debit,"Probably discontinued.",https://pib.uob.com.sg/personal/cards/debit/uob_direct_platinum_card.html,Guessing
+UOB,"UOB Business World Debit Card",Mastercard,"World Mastercard for Business Debit",Commercial debit,"",https://www.uob.com.sg/business/transact/cards/uob-business-world-debit-card.page,Likely
+UOB,"UOB Platinum Business Card",Visa,"Visa Business Platinum",Commercial credit,"Current network not confirmed.",https://www.uob.com.sg/corporate/commercial-banking/credit-card/platinum-business-card.page,Guessing
+UOB,"UOB Platinum Business Mastercard",Mastercard,"Platinum Business Mastercard",Commercial credit,"May no longer be issued.",https://www.uob.com.sg/assets/pdfs/about/news/2007/news_26jan07.pdf,Guessing
+UOB,"UOB Signature/World Business Card (Visa variant)",Visa,"Visa Signature Business",Commercial credit,"Listed under a combined name on UOB's business-cards page.",https://www.uob.com.sg/business/transact/cards/business-credit-cards.page,Likely
+UOB,"UOB Signature/World Business Card (Mastercard variant)",Mastercard,"World Mastercard for Business",Commercial credit,"Listed under a combined name on UOB's business-cards page.",https://www.uob.com.sg/business/transact/cards/business-credit-cards.page,Likely
+UOB,"UOB Zuellig Signature Business Card",Visa,"Visa Signature Business",Commercial credit,"Network inferred from name.",https://www.uob.com.sg/business/transact/cards/uob-zuellig-signature-business-card.page,Guessing
+UOB,"UOB Empire World Business Mastercard",Mastercard,"World Mastercard for Business",Commercial credit,"Invitation only.",https://www.uob.com.sg/business/transact/cards/uob-empire-world-business-mastercard.page,Certain
+UOB,"UOB Regal Business Metal Card",Mastercard,"World Elite Mastercard for Business",Commercial credit,"Invitation only.",https://www.uob.com.sg/web-resources/uobgroup/pdf/newsroom/2019/UOB-Regal-card.pdf,Certain
+UOB,"UOB Business Plus Card",Mastercard,"Unknown",Commercial credit,"",https://www.uob.com.sg/business/transact/cards/uob-business-plus-card.page,Likely (scheme)
+UOB,"UOB Corporate Card",Visa,"Visa Corporate",Commercial credit,"",https://www.uob.com.sg/business/transact/cards/uob-corporate-card.page,Likely
+UOB,"UOB Purchasing Card",Visa / Mastercard,"Visa Purchasing or Mastercard Purchasing",Commercial credit,"Agreement covers any MasterCard or VISA card issued by UOB.",https://www.uob.com.sg/business/transact/cards/uob-purchasing-card.page,Likely
